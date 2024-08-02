@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # access token
-access_token = 'BQACA5WUs8XTWm703WxkpSkzhRMEHz5dHjdS0lTz16xf8f8srgkLgU1SnA0iy-7KJqLA7q2WMqBksk8AoD4LjlS2VB2oSm4n4p9D4CPhAeVhGtVuCso'
+
 
 # artist ID (JBP)
 artist_id = '04bckYvJEXGoKmBWW9leSz'
